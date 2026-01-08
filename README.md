@@ -1,7 +1,7 @@
 # Crop Price Prediction and Farm Management System
 
 A comprehensive Flask-based web application for Karnataka farmers to predict crop prices, get crop recommendations, analyze market trends, and access farming tools.
-![Uploading image.png…]()
+image.png
 
 
 ## Features
